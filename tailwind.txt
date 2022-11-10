@@ -1,0 +1,29 @@
+TAILWIND 
+
+border-2 border-red-400 // border 2px solid red 
+
+flex sets the display mode of container to flex.
+
+flex-col changes the flex direction to column.
+
+min-h-screen sets the minimum height of the element to min-height: 100vh.
+
+container max-auto centers the container.
+
+flex justify-between adds space between the flex items.
+
+w-32 indicates that element has (32*4) 128px width.
+
+ml-2 provides 8px margin to the element from left.
+
+items-center pushes items to the center.
+
+hidden sets element visibility to hidden.
+
+md:flex displays flex when screen size is atleast medium.
+
+md:hidden sets visibility to hidden when screen size is atleast medium.
+
+text-green-500 changes text color to green with 500 font weight.
+
+bg-white sets the background color of the element to white.
